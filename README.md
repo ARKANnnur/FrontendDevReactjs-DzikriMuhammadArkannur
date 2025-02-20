@@ -62,7 +62,7 @@ yarn preview
 ```
 
 ## Deployment
-The project is deployed on Netlify. You can access the live version at:
+The project is deployed on Vercel. You can access the live version at:
 [Live Demo](https://frontend-dev-reactjs-dzikri-muhammad-arkannur.vercel.app/)
 
 ## GitHub Repository
