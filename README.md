@@ -61,10 +61,6 @@ npm run preview
 yarn preview
 ```
 
-## Login Credentials
-- **Username:** admin
-- **Password:** admin123
-
 ## Deployment
 The project is deployed on Netlify. You can access the live version at:
 [Live Demo](https://frontend-dev-reactjs-dzikri-muhammad-arkannur.vercel.app/)
